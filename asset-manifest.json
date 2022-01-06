@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://onitolobabatunde.github.io/csb-kxru5/static/css/main.fd77ed58.chunk.css",
+    "main.js": "https://onitolobabatunde.github.io/csb-kxru5/static/js/main.7f839ca3.chunk.js",
+    "main.js.map": "https://onitolobabatunde.github.io/csb-kxru5/static/js/main.7f839ca3.chunk.js.map",
+    "runtime-main.js": "https://onitolobabatunde.github.io/csb-kxru5/static/js/runtime-main.36646984.js",
+    "runtime-main.js.map": "https://onitolobabatunde.github.io/csb-kxru5/static/js/runtime-main.36646984.js.map",
+    "static/js/2.046f1375.chunk.js": "https://onitolobabatunde.github.io/csb-kxru5/static/js/2.046f1375.chunk.js",
+    "static/js/2.046f1375.chunk.js.map": "https://onitolobabatunde.github.io/csb-kxru5/static/js/2.046f1375.chunk.js.map",
+    "index.html": "https://onitolobabatunde.github.io/csb-kxru5/index.html",
+    "static/css/main.fd77ed58.chunk.css.map": "https://onitolobabatunde.github.io/csb-kxru5/static/css/main.fd77ed58.chunk.css.map",
+    "static/js/2.046f1375.chunk.js.LICENSE.txt": "https://onitolobabatunde.github.io/csb-kxru5/static/js/2.046f1375.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36646984.js",
+    "static/js/2.046f1375.chunk.js",
+    "static/css/main.fd77ed58.chunk.css",
+    "static/js/main.7f839ca3.chunk.js"
+  ]
+}
